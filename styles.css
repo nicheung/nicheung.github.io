@@ -2,8 +2,11 @@ img {
     width: 200px;
 }
 body {
+    width: 600px;
+    margin: auto;
     text-align: center;
+    align-items: center;
     font-family: "Arial";
-    background: azure;
-    color: purple;
+    background: purple;
+    color: white;
 }
